@@ -4,5 +4,6 @@
 
 ## Learnin'
 Check my progress on Roadmap.sh!
-
-[![roadmap.sh](https://roadmap.sh/card/wide/674764b150394310750f84d6?variant=dark)](https://roadmap.sh)
+<div id="roadmap" align="center">
+  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674764b150394310750f84d6?variant=dark" alt="roadmap.sh"/></a>
+</div>
