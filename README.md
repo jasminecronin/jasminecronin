@@ -4,7 +4,7 @@
 
 ## Learnin'
 <div id="roadmap">
-  <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/674764b150394310750f84d6?variant=dark" alt="roadmap.sh"/></a>
+   <a href="https://roadmap.sh"><img src="https://roadmap.sh/card/tall/674764b150394310750f84d6?variant=dark" alt="roadmap.sh"/></a>
 </div>
 
 ## Readin'
